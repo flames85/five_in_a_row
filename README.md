@@ -9,6 +9,7 @@ make
 # 使用
 1. 启动服务端
 ./server 1234
+(https://github.com/flames85/five_in_a_row/blob/master/image/server1.png)
 
 2. 启动客户端
 ./client 127.0.0.1 1234
