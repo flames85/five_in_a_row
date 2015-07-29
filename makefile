@@ -3,7 +3,7 @@ CLIENT_APP 	= client
 SERVER_APP 	= server
 PIECE_OBJ 	= piece.o
 FLAG 		= -g -Wall -DCUR_MODE
-RM 			= rm -f
+RM 		= rm -f
 
 # final target
 all: $(CLIENT_APP) $(SERVER_APP) 
